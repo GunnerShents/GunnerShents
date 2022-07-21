@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GunnerShents
 - 👀 I’m interested in software development mainly in Python
-- 🌱 I’m currently learning Java in mt university studies.
-- 💞️ I’m looking to collaborate on a Django web page.
+- 🌱 I’m currently studying Information Technology Degree in Software Development
+- 💞️ Currently working on - Inventory project with GUI display and an ISS Django project.
 - 📫 How to reach me Twitch channel - PythonPhil or discord server PythonPhil
 
 <!---
